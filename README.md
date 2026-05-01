@@ -38,4 +38,4 @@
 
 ---
 
-[Посилання на Дашборд]([https://docs.google.com/spreadsheets/d/1S5k66p1SXg7G3MkxZ2duY0RmmqxmVSvG7H5FLaxzx1M/edit?usp=sharing](https://public.tableau.com/app/profile/andrii.klymchuk4725/viz/st_17776271767180/Dashboard1?publish=yes))
+[Посилання на Дашборд](https://public.tableau.com/app/profile/andrii.klymchuk4725/viz/ukraine-salary-analysis-2012-2024/Dashboard1?publish=yes)
